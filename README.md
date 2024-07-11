@@ -236,4 +236,6 @@ then click on create model.
  8. Now you have the `Invoke URL` for the use with `POST` request.
  
  ![](https://github.com/causecode/micronaut-fn-serverless/blob/25b17ce8d67d979b2f24c0af51b5593eff46934a/assets/aws-api-response-outside.png)
+
+Updated on 11 Jul 24
  
